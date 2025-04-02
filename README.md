@@ -15,7 +15,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | **SIEM Implementation & Log Analysis**          | [Threat Intelligence with Wazuh](https://github.com/YOUR-PROJECT-LINK) |
-| **Network Traffic Monitoring & Attack Detection** | [Network Traffic Analysis](https://github.com/YOUR-PROJECT-LINK) |
+| **Network Traffic Analysis: PsExec Hunt CTF Challenge** | [Network Traffic Analysis](https://github.com/Teedico/Network-Forensics-PsExec-Hunt/blob/b5991201d9aaec0e9d4270d0231029af85a8cc8b/README.md) |
 | **Security Automation with Shuffle SOAR**         | [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) |
 | **Incident Response Planning & Execution**      | [Incident Response Framework](https://github.com/YOUR-PROJECT-LINK) |
 | **Case Management with TheHive**                  | [SOC Case Management](https://github.com/YOUR-PROJECT-LINK) |
