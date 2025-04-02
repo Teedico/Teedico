@@ -73,9 +73,9 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 🔹 [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) - Automating incident response workflows using Shuffle SOAR.
 
-🔹 [Incident Response Framework](https://github.com/YOUR-PROJECT-LINK) - Developing a structured approach for responding to cyber incidents.
+🔹 [Incident Response Plan](https://github.com/YOUR-PROJECT-LINK) - Developing a structured approach for responding to cyber incidents.
 
-🔹 [Threat Hunting Playbook](https://github.com/YOUR-PROJECT-LINK) - Using SIEM queries to identify malicious activities.
+🔹 [Threat Hunting and Malware Analysis ](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) - Using SIEM queries to identify malicious activities.
 
 ---
 
