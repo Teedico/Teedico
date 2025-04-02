@@ -1,6 +1,6 @@
 # Hello, I'm Oghenetjiri 
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/oghenetejiri-brume"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/YOUR-GITHUB-HERE"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## 👩‍💻 About Me
@@ -19,7 +19,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 | **Security Automation with Shuffle SOAR**         | [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) |
 | **Incident Response Planning & Execution**      | [Incident Response Framework](https://github.com/YOUR-PROJECT-LINK) |
 | **Case Management with TheHive**                  | [SOC Case Management](https://github.com/YOUR-PROJECT-LINK) |
-| **Threat Hunting & Malware Analysis**            | [Threat Hunting Playbook](https://github.com/YOUR-PROJECT-LINK) |
+| **Threat Hunting & Malware Analysis**            | [Threat Hunting and Malware Analysis](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) |
 
 ---
 
@@ -80,7 +80,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 ---
 
 ## 📫 Get in Touch
-📧 Email: YOUR-EMAIL-HERE  
+📧 Email: dicotejiri@gmail.com  
 💼 LinkedIn: [Oghenetejiri Brume](https://linkedin.com/in/oghenetejiri-brume)  
 
 ---
