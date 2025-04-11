@@ -9,7 +9,6 @@ I am a passionate cybersecurity professional with expertise in Security Operatio
 ## 🎯 Objective
 To leverage my skills in threat detection, log analysis, and security automation to enhance the security posture of organizations while growing as a SOC Analyst.
 
----
 
 ## 🛠 Skills & Projects
 | Skill                                         | Associated Project         |
@@ -21,7 +20,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 | **Case Management with TheHive**                  | [SOC Case Management](https://github.com/YOUR-PROJECT-LINK) |
 | **Threat Hunting & Malware Analysis**            | [Threat Hunting and Malware Analysis](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) |
 
----
+
 
 ## 🛠 Tools
 ### SIEM & Monitoring
@@ -66,7 +65,7 @@ To leverage my skills in threat detection, log analysis, and security automation
   <img src="https://img.shields.io/badge/-Security_Analyst_Level_1_(SAL1)-00A4EF?&style=for-the-badge&logoColor=white" />
 </div>
 
----
+
 
 ## 🚀 Projects
 🔹 [Threat Intelligence with Wazuh](https://github.com/YOUR-PROJECT-LINK) - Enhancing SOC operations with VirusTotal integration.
@@ -77,13 +76,13 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 🔹 [Threat Hunting and Malware Analysis ](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) - Using SIEM queries to identify malicious activities.
 
----
+
 
 ## 📫 Get in Touch
 📧 Email: dicotejiri@gmail.com  
 💼 LinkedIn: [Oghenetejiri Brume](https://linkedin.com/in/oghenetejiri-brume)  
 
----
+
 
 *Let's connect and secure the digital world together!* 🚀
 
