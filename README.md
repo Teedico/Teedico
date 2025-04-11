@@ -18,8 +18,8 @@ To leverage my skills in threat detection, log analysis, and security automation
 | **Security Automation with Shuffle SOAR**         | [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) |
 | **Incident Response Planning & Execution**      | [Incident Response Framework](https://github.com/YOUR-PROJECT-LINK) |
 | **Case Management with TheHive**                  | [SOC Case Management](https://github.com/YOUR-PROJECT-LINK) |
-| **Threat Hunting & Malware Analysis**            | [Threat Hunting and Malware Analysis](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) |
-
+| **Threat Hunting & Malware Analysis**            | [Threat Hunting and Malware Analysis](https://github.com/Teedico/Threat-Hunting-Malware-Analysis/blob/c92e675e81efba41185c364622afd242250855d1/README.md) |
+| **Nessus Vulnerability Assessment**            | [Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) |
 
 
 ## 🛠 Tools
@@ -72,10 +72,11 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 🔹 [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) - Automating incident response workflows using Shuffle SOAR.
 
-🔹 [Incident Response Plan](https://github.com/YOUR-PROJECT-LINK) - Developing a structured approach for responding to cyber incidents.
+🔹 [Incident Response Plan](https://github.com/YOUR-PROJECT-LINK) - Developing a structured Incident Response Plan for responding to cyber incidents.
 
-🔹 [Threat Hunting and Malware Analysis ](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) - Using SIEM queries to identify malicious activities.
+🔹 [Threat Hunting and Malware Analysis ](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) - Comprehensive threat intelligence analysis of the DarkSide ransomware strain.
 
+🔹[Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) - Nessus credentialed scan of a Linux system and a web application vulnerability scan targeting an Nginx server.
 
 
 ## 📫 Get in Touch
