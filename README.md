@@ -16,7 +16,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 | **SIEM Implementation & Log Analysis**          | [Threat Intelligence with Wazuh](https://github.com/YOUR-PROJECT-LINK) |
 | **Network Traffic Analysis: PsExec Hunt CTF Challenge** | [Network Traffic Analysis](https://github.com/Teedico/Network-Forensics-PsExec-Hunt/blob/b5991201d9aaec0e9d4270d0231029af85a8cc8b/README.md) |
 | **Security Automation with Shuffle SOAR**         | [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) |
-| **Incident Response Planning & Execution**      | [Incident Response Framework](https://github.com/YOUR-PROJECT-LINK) |
+| **Incident Response Plan**      | [Incident Response Plan](https://github.com/Teedico/Incident_Response_Plan_Privileged_Account_Compromise/blob/2c7f2e54dbcbb868b718b01e4e08e9160c8fa589/README.md) |
 | **Case Management with TheHive**                  | [SOC Case Management](https://github.com/YOUR-PROJECT-LINK) |
 | **Threat Hunting & Malware Analysis**            | [Threat Hunting and Malware Analysis](https://github.com/Teedico/Threat-Hunting-Malware-Analysis/blob/c92e675e81efba41185c364622afd242250855d1/README.md) |
 | **Nessus Vulnerability Assessment**            | [Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) |
@@ -72,7 +72,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 🔹 [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) - Automating incident response workflows using Shuffle SOAR.
 
-🔹 [Incident Response Plan](https://github.com/YOUR-PROJECT-LINK) - Developing a structured Incident Response Plan for responding to cyber incidents.
+🔹 [Incident Response Plan](https://github.com/Teedico/Incident_Response_Plan_Privileged_Account_Compromise/blob/2c7f2e54dbcbb868b718b01e4e08e9160c8fa589/README.md) - Developing a structured Incident Response Plan with a specific focus on scenarios related to Privileged Account Compromise.
 
 🔹 [Threat Hunting and Malware Analysis ](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) - Comprehensive threat intelligence analysis of the DarkSide ransomware strain.
 
