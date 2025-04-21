@@ -3,14 +3,14 @@
 <a href="https://linkedin.com/in/oghenetejiri-brume"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Teedico"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## 👩‍💻 About Me
+##  About Me
 I am a passionate cybersecurity professional with expertise in Security Operations (SOC) and Incident Response. I enjoy analyzing cyber threats, implementing security measures, and working with SIEM tools to enhance security posture. My goal is to contribute to a proactive security team as a Security Operations Analyst.
 
-## 🎯 Objective
+##  Objective
 To leverage my skills in threat detection, log analysis, and security automation to enhance the security posture of organizations while growing as a SOC Analyst.
 
 
-## 🛠 Skills & Projects
+##  Skills & Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | **SIEM Implementation & Log Analysis**          | [Threat Intelligence with Wazuh](https://github.com/YOUR-PROJECT-LINK) |
@@ -22,7 +22,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 | **Nessus Vulnerability Assessment**            | [Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) |
 
 
-## 🛠 Tools
+##  Tools
 ### SIEM & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
@@ -58,7 +58,7 @@ To leverage my skills in threat detection, log analysis, and security automation
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
 
-## 📜 Certifications
+##  Certifications
 <div>
     <img src="https://img.shields.io/badge/-BTL1-000080?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Security_Analyst-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -67,7 +67,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 
 
-## 🚀 Projects
+##  Projects
 🔹 [Threat Intelligence with Wazuh](https://github.com/YOUR-PROJECT-LINK) - Enhancing SOC operations with VirusTotal integration.
 
 🔹 [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) - Automating incident response workflows using Shuffle SOAR.
@@ -79,11 +79,11 @@ To leverage my skills in threat detection, log analysis, and security automation
 🔹[Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) - Nessus credentialed scan of a Linux system and a web application vulnerability scan targeting an Nginx server.
 
 
-## 📫 Get in Touch
-📧 Email: dicotejiri@gmail.com  
-💼 LinkedIn: [Oghenetejiri Brume](https://linkedin.com/in/oghenetejiri-brume)  
+##  Get in Touch
+ Email: dicotejiri@gmail.com  
+ LinkedIn: [Oghenetejiri Brume](https://linkedin.com/in/oghenetejiri-brume)  
 
 
 
-*Let's connect and secure the digital world together!* 🚀
+
 
