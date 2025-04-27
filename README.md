@@ -20,6 +20,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 | **Case Management with TheHive**                  | [SOC Case Management](https://github.com/YOUR-PROJECT-LINK) |
 | **Threat Hunting & Malware Analysis**            | [Threat Hunting and Malware Analysis](https://github.com/Teedico/Threat-Hunting-Malware-Analysis/blob/c92e675e81efba41185c364622afd242250855d1/README.md) |
 | **Nessus Vulnerability Assessment**            | [Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) |
+| **Phishing Email Forensics Analysis**            | [Phishing Email Forensics Analysis](https://github.com/Teedico/Phishing_Email_Forensics_Analysis/blob/929db586d75552de9de872d75b0f9fa19b3d2177/README.md) 
 
 
 ##  Tools
@@ -78,6 +79,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 🔹[Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) - Nessus credentialed scan of a Linux system and a web application vulnerability scan targeting an Nginx server.
 
+🔹[Phishing Email Forensics Analysis](https://github.com/Teedico/Phishing_Email_Forensics_Analysis/blob/badd2fabc4fd41efb081aa6e6f732c7ce9142073/README.md) - Comprehensive forensic investigation on a phishing email, including metadata extraction, IP tracing, authentication failure analysis, tracking pixel detection, and threat mitigation recommendations.
 
 ##  Get in Touch
  Email: dicotejiri@gmail.com  
