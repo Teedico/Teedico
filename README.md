@@ -69,19 +69,19 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 
 ##  Projects
-🔹 [Threat Intelligence with Wazuh](https://github.com/YOUR-PROJECT-LINK) - Enhancing SOC operations with VirusTotal integration.
+ [Threat Intelligence with Wazuh](https://github.com/YOUR-PROJECT-LINK) - Enhancing SOC operations with VirusTotal integration.
 
-🔹 [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) - Automating incident response workflows using Shuffle SOAR.
+ [SOC Automation Project](https://github.com/YOUR-PROJECT-LINK) - Automating incident response workflows using Shuffle SOAR.
 
-🔹 [Incident Response Plan](https://github.com/Teedico/Incident_Response_Plan_Privileged_Account_Compromise/blob/2c7f2e54dbcbb868b718b01e4e08e9160c8fa589/README.md) - Developing a structured Incident Response Plan with a specific focus on scenarios related to Privileged Account Compromise.
+ [Incident Response Plan](https://github.com/Teedico/Incident_Response_Plan_Privileged_Account_Compromise/blob/2c7f2e54dbcbb868b718b01e4e08e9160c8fa589/README.md) - Developing a structured Incident Response Plan with a specific focus on scenarios related to Privileged Account Compromise.
 
-🔹 [Threat Hunting and Malware Analysis ](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) - Comprehensive threat intelligence analysis of the DarkSide ransomware strain.
+ [Threat Hunting and Malware Analysis ](https://github.com/Teedico/Threat-Hunting-Malware-Analysis) - Comprehensive threat intelligence analysis of the DarkSide ransomware strain.
 
-🔹[Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) - Nessus credentialed scan of a Linux system and a web application vulnerability scan targeting an Nginx server.
+ [Nessus Vulnerability Assessment](https://github.com/Teedico/Nessus_Vulnerability_Assessment/blob/767b73f2b7f4b9f257be6d622d37cec192b33309/README.md) - Nessus credentialed scan of a Linux system and a web application vulnerability scan targeting an Nginx server.
 
-🔹[Phishing Email Forensics Analysis](https://github.com/Teedico/Phishing_Email_Forensics_Analysis/blob/badd2fabc4fd41efb081aa6e6f732c7ce9142073/README.md) - Comprehensive forensic investigation on a phishing email, including metadata extraction, IP tracing, authentication failure analysis, tracking pixel detection, and threat mitigation recommendations.
+ [Phishing Email Forensics Analysis](https://github.com/Teedico/Phishing_Email_Forensics_Analysis/blob/badd2fabc4fd41efb081aa6e6f732c7ce9142073/README.md) - Comprehensive forensic investigation on a phishing email, including metadata extraction, IP tracing, authentication failure analysis, tracking pixel detection, and threat mitigation recommendations.
 
-🔹[Malware Analysis](https://github.com/Teedico/Malware_Analysis/blob/4bb604216f682fca5c23a31e1beae0ad4d1f3531/README.md) - Comprehensive static and dynamic analysis of a suspicious executable, successfully identifying it as QuasarRAT. Pinpointed persistence mechanisms, C2 communication channels (fiftyfive5.ydns.eu), and recommended mitigation strategies.
+ [Malware Analysis](https://github.com/Teedico/Malware_Analysis/blob/4bb604216f682fca5c23a31e1beae0ad4d1f3531/README.md) - Comprehensive static and dynamic analysis of a suspicious executable, successfully identifying it as QuasarRAT. Pinpointed persistence mechanisms, C2 communication channels (fiftyfive5.ydns.eu), and recommended mitigation strategies.
 
 ##  Get in Touch
  Email: dicotejiri@gmail.com  
