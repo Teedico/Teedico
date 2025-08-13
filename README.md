@@ -82,7 +82,8 @@ To leverage my skills in threat detection, log analysis, and security automation
  [Phishing Email Forensics Analysis](https://github.com/Teedico/Phishing_Email_Forensics_Analysis/blob/badd2fabc4fd41efb081aa6e6f732c7ce9142073/README.md) - Comprehensive forensic investigation on a phishing email, including metadata extraction, IP tracing, authentication failure analysis, tracking pixel detection, and threat mitigation recommendations.
 
  [Malware Analysis](https://github.com/Teedico/Malware_Analysis/blob/4bb604216f682fca5c23a31e1beae0ad4d1f3531/README.md) - Comprehensive static and dynamic analysis of a suspicious executable, successfully identifying it as QuasarRAT. Pinpointed persistence mechanisms, C2 communication channels (fiftyfive5.ydns.eu), and recommended mitigation strategies.
-
+ [OpenSSH log analysis in Splunk Cloud ]( https://github.com/Teedico/OpenSSH-Security-Log-Analysis-in-Splunk-/blob/e729cfb20fdac6755d923632e91c4cb64de8af6c/README.md) - OpenSSH log analysis in Splunk Cloud to detect brute-force attacks, identify malicious IPs, visualize activity with dashboards, and automate alerts for enhanced SSH security."
+ 
 ##  Get in Touch
  Email: dicotejiri@gmail.com  
  LinkedIn: [Oghenetejiri Brume](https://linkedin.com/in/oghenetejiri-brume)  
