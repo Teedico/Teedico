@@ -37,10 +37,18 @@ To leverage my skills in threat detection, log analysis, and security automation
     <img src="https://img.shields.io/badge/-Cisco_Secure_Endpoint-005F9E?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0088CE?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-IDS/IPS-FF5733?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-DB3236?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-0040FF?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCP_Dump-6A1B9A?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Honeypot-FF4500?&style=for-the-badge&logoColor=white" />
 </div>
+
+### Vulnerability Assessment & Management  
+
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00B2A9?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</div>
+
 
 ### Threat Intelligence & Forensics
 <div>
@@ -50,6 +58,13 @@ To leverage my skills in threat detection, log analysis, and security automation
     <img src="https://img.shields.io/badge/-NetworkMiner-228B22?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Grassmarlin-4682B4?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Malcom-2E8B57?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-FD6C00?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PhishTool-1E90FF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Url2Png-FF69B4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK%20Imager-2E8B57?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KAPE-800080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PECmd-4682B4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logo=Autopsy&logoColor=white" />
 </div>
 
 ###  Malware Analysis  
@@ -58,6 +73,10 @@ To leverage my skills in threat detection, log analysis, and security automation
     <img src="https://img.shields.io/badge/-Volatility-6A5ACD?&style=for-the-badge&logo=Volatility&logoColor=white" />
 </div>
 
+###  Cloud Platforms  
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
 
 ### Scripting & Automation
 <div>
@@ -65,6 +84,16 @@ To leverage my skills in threat detection, log analysis, and security automation
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
+
+### Security Compliance & Frameworks  
+
+<div>
+    <img src="https://img.shields.io/badge/-NIST-003366?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GDPR-FFD700?&style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/-ITIL-800080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO%2027001-2F855A?&style=for-the-badge&logoColor=white" />
+</div>
+
 
 ##  Certifications
 <div>
