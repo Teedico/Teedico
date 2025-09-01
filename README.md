@@ -75,6 +75,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 ###  Cloud Platforms  
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
 ### Scripting & Automation
