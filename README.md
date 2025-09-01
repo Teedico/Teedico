@@ -52,6 +52,13 @@ To leverage my skills in threat detection, log analysis, and security automation
     <img src="https://img.shields.io/badge/-Malcom-2E8B57?&style=for-the-badge&logoColor=white" />
 </div>
 
+###  Malware Analysis  
+<div>
+    <img src="https://img.shields.io/badge/-YARA-FF4500?&style=for-the-badge&logo=Yara&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-6A5ACD?&style=for-the-badge&logo=Volatility&logoColor=white" />
+</div>
+
+
 ### Scripting & Automation
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
@@ -64,6 +71,7 @@ To leverage my skills in threat detection, log analysis, and security automation
     <img src="https://img.shields.io/badge/-BTL1-000080?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Security_Analyst-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Security_Analyst_Level_1_(SAL1)-00A4EF?&style=for-the-badge&logoColor=white" />
+    
 </div>
 
 
