@@ -24,6 +24,7 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 
 ##  Tools
+
 ### SIEM & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
@@ -48,7 +49,6 @@ To leverage my skills in threat detection, log analysis, and security automation
 <div>
     <img src="https://img.shields.io/badge/-Nessus-00B2A9?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
-
 
 ### Threat Intelligence & Forensics
 <div>
