@@ -97,9 +97,10 @@ To leverage my skills in threat detection, log analysis, and security automation
 
 ##  Certifications
 <div>
-    <img src="https://img.shields.io/badge/-BTL1-000080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Security_Analyst-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security_Analyst_Level_1_(SAL1)-00A4EF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-00008B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Analyst_Level_1_(SAL1)-00A4EF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
     
 </div>
 
